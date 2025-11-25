@@ -87,5 +87,19 @@ footer {
     margin-top: 10px;
     font-size: 18px;
 }
+.card img,
+.tech-img,
+.contact-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 15px;
+}
+
+/* Restore hero background */
+#hero {
+    background: url('https://images.unsplash.com/photo-1581091870670-194cdead8a7e?auto=format&fit=crop&w=1200&q=60') center/cover no-repeat;
+}
+
 
 
